@@ -1,5 +1,4 @@
 # Project Log
-
 ## Date: 14/5/2022
 
 - **Event:** Data Collection
@@ -7,46 +6,59 @@
 - **Responsible:** Prashant Nawale
 - **Outcome:** Data collected successfully.
 
-## Date: 20/5/2022
+## Date: 28/5/2022
 
-- **Event:** Data Preprocessing
-- **Description:** The collected employee data has undergone preprocessing, including data cleaning, handling missing values, and feature scaling.
+- **Event:** Data Filtering
+- **Description:** Preprocessed the collected dataset, handled missing values, and applied filters to select relevant data for analysis.
 - **Responsible:** Prashant Nawale
-- **Outcome:** Cleaned and preprocessed data ready for model development.
+- **Outcome:** Cleaned and filtered dataset ready for analysis.
 
-## Date: 25/5/2022
+## Date: 12/6/2022
 
-- **Event:** Model Training
-- **Description:** Machine learning models, including decision tree and logistic regression, have been trained using the preprocessed data.
+- **Event:** Data Analysis
+- **Description:** Performed exploratory data analysis (EDA) on the filtered dataset to gain insights into employee behavior and identify patterns.
 - **Responsible:** Prashant Nawale
-- **Outcome:** Models trained successfully with an initial accuracy of 85%.
+- **Outcome:** Valuable insights and visualizations generated from the data.
 
-## Date: 1/6/2022
+## Date: 5/7/2022
 
-- **Event:** Streamlit App Development
-- **Description:** Development of the Streamlit application for employee departure prediction has commenced. Initial UI design and layout planning completed.
+- **Event:** Model Building
+- **Description:** Explored various machine learning algorithms and selected the Decision Tree algorithm for employee departure prediction. Trained the model using the prepared dataset.
 - **Responsible:** Prashant Nawale
-- **Outcome:** Streamlit app development in progress.
+- **Outcome:** Trained machine learning model for predicting employee departures.
 
-## Date: 10/6/2022
+## Date: 20/7/2022
 
-- **Event:** Stakeholder Meeting
-- **Description:** Meeting held with HR department to gather feedback and clarify requirements for the Streamlit application.
+- **Event:** Matplotlib Integration
+- **Description:** Integrated Matplotlib into the project to create informative visualizations within the Jupyter Notebook for model evaluation and understanding.
 - **Responsible:** Prashant Nawale
-- **Outcome:** Valuable insights gained, and feedback documented for implementation.
+- **Outcome:** Visualizations added to enhance model analysis.
 
-## Date: 15/6/2022
+## Date: 10/8/2022
 
-- **Event:** Model Fine-Tuning
-- **Description:** Fine-tuning of machine learning models based on stakeholder feedback and further analysis.
+- **Event:** Streamlit App
+- **Description:** Designed and implemented a Streamlit app with two pages: one for employee departure prediction and the other for HR data visualization.
 - **Responsible:** Prashant Nawale
-- **Outcome:** Model accuracy improved to 90%.
+- **Outcome:** Streamlit app ready for use by HR professionals.
 
-## Date: 20/6/2022
+## Date: 25/8/2022
 
-- **Event:** User Training
-- **Description:** User training sessions for HR department scheduled to begin next week. Training materials prepared.
+- **Event:** Additional Functionality
+- **Description:** Added extra features to the Streamlit app, including employee risk assessment, retention strategies, and customized reporting.
 - **Responsible:** Prashant Nawale
-- **Outcome:** Training materials ready for distribution.
+- **Outcome:** Expanded app functionality to provide more value to HR.
 
-... (continue to update as the project progresses)
+## Date: 10/9/2022
+
+- **Event:** Testing and User Feedback
+- **Description:** Conducted testing and collected feedback from HR professionals to refine and improve the app's features and user experience.
+- **Responsible:** Prashant Nawale
+- **Outcome:** App tested and improved based on user feedback.
+
+## Date: 30/9/2022
+
+- **Event:** Documentation and Finalization
+- **Description:** Completed project documentation and finalized the Streamlit app for deployment.
+- **Responsible:** Prashant Nawale
+- **Outcome:** Project documentation and app ready for deployment.
+
